@@ -1,0 +1,4 @@
+﻿  Cifrador.cpp
+c:\users\charl\desktop\patrones\escritorio\c++\cifradocesar\cifradocesar\cifrador.cpp(22): warning C4018: '<': no coinciden signed/unsigned
+c:\users\charl\desktop\patrones\escritorio\c++\cifradocesar\cifradocesar\cifrador.cpp(29): warning C4018: '>': no coinciden signed/unsigned
+  CifradoCesar.vcxproj -> C:\Users\charl\Desktop\Patrones\Escritorio\C++\CifradoCesar\Debug\CifradoCesar.exe

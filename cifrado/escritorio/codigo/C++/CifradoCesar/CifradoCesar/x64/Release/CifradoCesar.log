@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  Alfabeto.cpp
+  AssemblyInfo.cpp
+  Cifrador.cpp
+c:\users\charl\documents\github\disor\cifrado\escritorio\codigo\c++\cifradocesar\cifradocesar\cifrador.cpp(30): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  CppCLR_WinformsProjekt.cpp
+c:\users\charl\documents\github\disor\cifrado\escritorio\codigo\c++\cifradocesar\cifradocesar\form1.h(249): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\charl\documents\github\disor\cifrado\escritorio\codigo\c++\cifradocesar\cifradocesar\form1.h(286): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\charl\documents\github\disor\cifrado\escritorio\codigo\c++\cifradocesar\cifradocesar\form1.h(305): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Form1.cpp
+  TextoPlano.cpp
+c:\users\charl\documents\github\disor\cifrado\escritorio\codigo\c++\cifradocesar\cifradocesar\textoplano.cpp(17): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\charl\documents\github\disor\cifrado\escritorio\codigo\c++\cifradocesar\cifradocesar\textoplano.cpp(26): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  CifradoCesar.vcxproj -> C:\Users\charl\Documents\GitHub\disor\cifrado\Escritorio\codigo\C++\CifradoCesar\x64\Release\CifradoCesar.exe
