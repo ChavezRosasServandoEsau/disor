@@ -1,9 +1,0 @@
-# web-files
-
-dist/*
-!dist/*.jar
-
-# nb
-
-nbproject/private/*
-build/built-jar.properties
