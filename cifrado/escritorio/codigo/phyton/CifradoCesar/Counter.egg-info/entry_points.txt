@@ -1,4 +1,0 @@
-
-    [nagare.applications]
-    Counter = Counter.app:app
-    
